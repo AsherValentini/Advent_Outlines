@@ -1,6 +1,6 @@
-# 🧭 HFT Engineer Track: 90-Day Schedule
+# HFT Engineer Track: 90-Day Schedule
 
-## 💡 Core Idea and Ethos
+## Core Idea and Ethos
 
 > **The HFT Engineer Track is a disciplined, modular, and performance-driven systems challenge.**  
 In 90 days, you’ll **build out a full real-time trading infrastructure**, one tested module at a time.  
@@ -15,7 +15,7 @@ This track prepares you for the **actual job** of writing and maintaining critic
 
 ---
 
-## 🏗️ WEEK 1–3: Infrastructure and Data Arteries
+## WEEK 1–3: Infrastructure and Data Arteries
 
 | Day | Module |
 |-----|--------|
@@ -42,7 +42,7 @@ This track prepares you for the **actual job** of writing and maintaining critic
 
 ---
 
-## 📦 WEEK 4–6: Module Lifecycle + Application Wiring
+## WEEK 4–6: Module Lifecycle + Application Wiring
 
 | Day | Module |
 |-----|--------|
@@ -69,7 +69,7 @@ This track prepares you for the **actual job** of writing and maintaining critic
 
 ---
 
-## 📈 WEEK 7–9: Trading Strategy and Book Infrastructure
+## WEEK 7–9: Trading Strategy and Book Infrastructure
 
 | Day | Module |
 |-----|--------|
@@ -96,7 +96,7 @@ This track prepares you for the **actual job** of writing and maintaining critic
 
 ---
 
-## 🧠 WEEK 10–13: Full-System Behavior + Testing
+## WEEK 10–13: Full-System Behavior + Testing
 
 | Day | Module |
 |-----|--------|
@@ -123,7 +123,7 @@ This track prepares you for the **actual job** of writing and maintaining critic
 
 ---
 
-## 🚀 WEEK 14–15: Capstone + Real Deployment Scenarios
+## WEEK 14–15: Capstone + Real Deployment Scenarios
 
 | Day | Module |
 |-----|--------|
