@@ -1,6 +1,6 @@
-# 🎯 Advent of Modules: Classic Track (Day 15–90)
+# Advent of Modules: Classic Track (Day 15–90)
 
-## 💡 Ethos and Design
+## Ethos and Design
 
 > **This track is about building sharpness under pressure.**  
 You get 45–60 minutes to solve a C++ challenge from scratch. Each challenge is:
